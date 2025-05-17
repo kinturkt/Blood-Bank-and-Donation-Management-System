@@ -40,7 +40,7 @@ A complete web-based platform to manage blood donations and requests. Built usin
 
    Place the project folder in your XAMPP htdocs directory:
     ```bash
-    C:/xampp/htdocs/blood-bank-donation-system/
+    C:/xampp/htdocs/blood-bank-and-donation-mmanagement-system/
 
 3. Start Apache and MySQL
 
@@ -58,7 +58,7 @@ A complete web-based platform to manage blood donations and requests. Built usin
 
 ---
 
-Author:
-Kintur Shah
+**Author: Kintur Shah** <br>
+[LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
 
 Let me know if you want it personalized with your name or GitHub username, or if you'd like to include screenshots or badges.
