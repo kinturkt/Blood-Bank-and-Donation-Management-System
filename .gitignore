@@ -1,0 +1,8 @@
+/vendor/
+/node_modules/
+/*.log
+*.sql
+*.zip
+*.env
+/config.php
+/conn.php
