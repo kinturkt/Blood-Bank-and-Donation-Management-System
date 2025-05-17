@@ -48,8 +48,8 @@ A complete web-based platform to manage blood donations and requests. Built usin
    Start Apache and MySQL
 
 4. Import the Database
-   Go to: http://localhost/phpmyadmin
-   Create a new database named: blood_donation
+   Go to: http://localhost/phpmyadmin <br>
+   Create a new database named: blood_donation <br>
    Click Import and select the blood_donation.sql file from the project folder
 
 6. Run the Project
