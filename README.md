@@ -38,29 +38,23 @@ A complete web-based platform to manage blood donations and requests. Built usin
 
 2. Move the Project Folder
 
-Place the project folder in your XAMPP htdocs directory:
+   Place the project folder in your XAMPP htdocs directory:
     ```bash
     C:/xampp/htdocs/blood-bank-donation-system/
 
 3. Start Apache and MySQL
 
-Open the XAMPP Control Panel
-
-Start Apache and MySQL
+   Open the XAMPP Control Panel
+   Start Apache and MySQL
 
 4. Import the Database
+   Go to: http://localhost/phpmyadmin
+   Create a new database named: blood_donation
+   Click Import and select the blood_donation.sql file from the project folder
 
-Go to: http://localhost/phpmyadmin
-
-Create a new database named: blood_donation
-
-Click Import and select the blood_donation.sql file from the project folder
-
-5. Run the Project
-
-Open your browser and visit:
-
-http://localhost/blood-bank-and-donation-system/home.php
+6. Run the Project
+   Open your browser and visit:
+   http://localhost/blood-bank-and-donation-system/home.php
 
 ---
 
